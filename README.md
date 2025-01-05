@@ -11,11 +11,11 @@ GPL v3 License
 2. Pillow (PIL)
    - ライセンス: [HPND License](https://licenses.opensource.jp/HPND/HPND.html)
 3. pytesseract
-   - ライセンス: Apache License 2.0(https://www.apache.org/licenses/LICENSE-2.0.txt)
+   - ライセンス: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
    - リポジトリ: https://github.com/madmaze/pytesseract
 
 4. pystray
-   - ライセンス: MIT License
+   - ライセンス: [MIT License](https://mit-license.org/)
    - リポジトリ: https://github.com/moses-palmer/pystray
 
 5. pyautogui
@@ -27,5 +27,5 @@ GPL v3 License
    - リポジトリ: https://github.com/nateshmbhat/pyttsx3
 
 7. Tesseract
-   - ライセンス: Apache License 2.0
+   - ライセンス: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
    - リポジトリ: https://github.com/tesseract-ocr/tesseract
