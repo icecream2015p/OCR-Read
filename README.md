@@ -4,10 +4,6 @@
 ## ライセンス
 GPL v3 License
 ## クレジット
-1. OpenCV
-   - ライセンス: [BSD License](https://opensource.org/licenses/BSD-3-Clause)
-   - リポジトリ: https://github.com/opencv/opencv
-
 1. Pillow (PIL)
    - ライセンス: [HPND License](https://licenses.opensource.jp/HPND/HPND.html)
    - PyPi: https://pypi.org/project/pillow/
